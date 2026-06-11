@@ -33,6 +33,3 @@ Prophet Time Series Forecasting
 
 Successfully forecasted future sales and analyzed trends, seasonality, and holiday effects to support business decision-making.
 
-## Author
-
-Manthan Khujnare
